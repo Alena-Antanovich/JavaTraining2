@@ -1,8 +1,6 @@
 /*
-    Упражнение 5.2
-
-    Класс, реализующий очередь для хранения символов
- */
+    A class that implements a queue for storing characters
+*/
 
 class Queue {
     char q[];           //  массив для хранения элементов очереди
