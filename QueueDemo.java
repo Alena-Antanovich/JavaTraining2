@@ -36,7 +36,7 @@ class Queue {
 }
 
 //  Демонстрация использования класса Queue
-class QDemo {
+class QueueDemo {
     public static void main(String args[]) {
         Queue bigQ = new Queue(100);
         Queue smallQ = new Queue(4);
